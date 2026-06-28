@@ -1,0 +1,36 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.idea/
+.vscode/
+*.code-workspace
+pyrightconfig.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Local logs from new campaign runs (reference log is versioned)
+relatorio_cli/chapter_campaign_multi_*.md
+!relatorio_cli/chapter_campaign_multi_20260626_001524.md

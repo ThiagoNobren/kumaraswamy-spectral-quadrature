@@ -1,0 +1,6 @@
+# Kumaraswamy Spectral Quadrature — article baseline (v1.0-article-baseline)
+# Python 3.8+
+
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
