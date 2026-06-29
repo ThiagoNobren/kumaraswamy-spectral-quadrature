@@ -18,6 +18,8 @@ The chapter reports results from the **KSQ_V1_Multiobjective** solver with:
 
 Quantities of interest: mean, variance, and median (`Q_0.50`) relative errors, plus the chapter figure of errors versus `N`.
 
+The reported results were obtained using the complete **KSQ_V1_Multiobjective** workflow, consisting of a Stage 1 multistart procedure followed by a Stage 2 multi-objective refinement.
+
 ## Project structure
 
 ```
