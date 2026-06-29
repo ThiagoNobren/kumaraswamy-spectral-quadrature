@@ -1,0 +1,19 @@
+---
+description: Git commit authorship policy
+alwaysApply: true
+---
+
+# Git commit authorship policy
+
+For this repository, never add any `Co-authored-by:` trailer to commit messages.
+
+In particular, never add:
+
+`Co-authored-by: Cursor <cursoragent@cursor.com>`
+
+All commits must be authored and committed only under the repository local Git identity:
+
+- user.name: ThiagoNobren
+- user.email: 38018912+ThiagoNobren@users.noreply.github.com
+
+When asked to commit, use commit messages without co-author trailers.
