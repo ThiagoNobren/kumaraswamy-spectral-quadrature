@@ -1,8 +1,8 @@
 # Kumaraswamy Spectral Quadrature — Article Baseline
 
-This repository provides the **reference implementation** used to produce the computational results of the submitted Springer book chapter on spectral Neumann quadrature for Kumaraswamy distributions.
+This repository provides the **reference implementation** used to produce the computational results reported in the chapter *A Spectral Quadrature for Computing Moments and Quantiles of Continuous Probability Distributions*, submitted to the Springer Nature contributed volume *Statistical Modeling and Analysis in the Age of AI* (LISA 2020 Global Network).
 
-The present release corresponds **exactly** to the frozen scientific baseline employed at submission time (baseline tag `v1.0-article-baseline`, development commit `c021af5`). Its purpose is to enable independent reproduction of the numerical experiments reported in the chapter. It does **not** represent the full research environment, the complete development history, or ongoing exploratory work carried out in the private research repository.
+The repository corresponds to the frozen computational baseline used to generate all numerical experiments reported in the submitted chapter. Its purpose is to enable the independent reproduction of the computational results presented in the chapter. It does **not** represent the complete research environment, the full development history, or ongoing exploratory work carried out in the private research repository.
 
 ## Scientific scope
 
@@ -65,16 +65,16 @@ Pre-computed reference artefacts shipped with this package:
 
 ## Citation
 
-This repository contains the reference implementation accompanying the submitted book chapter reporting the generalized spectral quadrature methodology and the numerical experiments reproduced herein.
+This repository contains the reference implementation accompanying the submitted chapter *A Spectral Quadrature for Computing Moments and Quantiles of Continuous Probability Distributions* and provides all computational resources required to reproduce the numerical experiments reported therein.
 
-Until the chapter is officially published, the full bibliographic reference is not yet available. In the interim, the chapter may be cited as a **submitted book chapter**. After publication, this section will be updated with the definitive bibliographic reference, the DOI, and the official BibTeX entry of the published work.
+Since the chapter is currently under editorial review, the definitive bibliographic reference is not yet available. The BibTeX entry below may be used to cite the submitted manuscript. After publication, this section will be updated with the final bibliographic information, including the DOI and the official citation provided by Springer Nature.
 
 ```bibtex
 @unpublished{NascimentoCostaSolheid2026,
-  author  = {Nascimento, Antonio Thiago Nobre and Costa, Eliardo Guimar{\~a}es da and Solheid, Bruno dos Santos},
-  title   = {Generalized Spectral Quadrature for Statistical Computation},
-  year    = {2026},
-  note    = {Submitted book chapter.}
+  author = {Nascimento, Antonio Thiago Nobre and Costa, Eliardo Guimar{\~a}es da and Solheid, Bruno dos Santos},
+  title  = {A Spectral Quadrature for Computing Moments and Quantiles of Continuous Probability Distributions},
+  year   = {2026},
+  note   = {Submitted chapter to the Springer Nature contributed volume Statistical Modeling and Analysis in the Age of AI (LISA 2020 Global Network).}
 }
 ```
 
