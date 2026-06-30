@@ -60,6 +60,14 @@ Pre-computed reference artefacts shipped with this package:
 - `outputs/figures/relative_errors_kumaraswamy.png`
 - `relatorio_cli/chapter_campaign_multi_20260626_001524.md`
 
+## Mathematical formulation and implementation
+
+For readers interested in the relationship between the mathematical formulation presented in the chapter and its computational implementation, this repository includes:
+
+- `mathematical_formulation_and_code_mapping.md`
+
+This document establishes a detailed correspondence between the mathematical formulation presented in the chapter and its Python implementation. It explains how the principal quantities of interest reported in the chapter—mean, variance, and quantiles—are computed by the implementation, providing a direct mapping between the mathematical notation, the algorithms, and the corresponding source code.
+
 ## Baseline documentation
 
 - `docs/auditorias/auditoria_k4r_baseline_freeze.md` — scientific baseline freeze (K4R)
